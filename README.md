@@ -8,7 +8,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-003140?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003140?style=for-the-badge&logo=mysql&logoColor=white)
-![С#](https://img.shields.io/badge/-CSharp-003140?style=for-the-badge&logo=csharp&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-003140?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-003140?style=for-the-badge&logo=django&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-003140?style=for-the-badge&logo=linux&logoColor=white)
