@@ -14,6 +14,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-003140?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-003140?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-003140?style=for-the-badge&logo=css3&logoColor=white)
+![GIT](https://img.shields.io/badge/-GIT-003140?style=for-the-badge&logo=git&logoColor=white)
 
 
 Follow me
