@@ -25,6 +25,5 @@
 [![TWITTER](https://img.shields.io/badge/-TWITTER-003140?style=for-the-badge&logo=twitter)](https://twitter.com/BantikGames)
 [![YT](https://img.shields.io/badge/-YOUTUBE-003140?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCbwHj15h4h9d5iS4plMPfCA)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bantikgames&repo=perfectionist_organizer&theme=solarized-light)](https://github.com/bantikgames/perfectionist_organizer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bantikgames&repo=pfo2_0&theme=solarized-light)](https://github.com/bantikgames/pfo2_0)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bantikgames&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
