@@ -13,6 +13,8 @@
 ![Django](https://img.shields.io/badge/-Django-003140?style=for-the-badge&logo=django&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-003140?style=for-the-badge&logo=linux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-003140?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-003140?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-003140?style=for-the-badge&logo=css3&logoColor=white)
 
 
 Follow me
