@@ -19,8 +19,9 @@
 
 ## Связаться со мной
 
-![VK](https://img.shields.io/badge/-ВКОНТАКТЕ-003140?style=for-the-badge&logo=vk)
-![TG](https://img.shields.io/badge/-ТЕЛЕГРАМ-003140?style=for-the-badge&logo=telegram)
-![TWITTER](https://img.shields.io/badge/-ТВИТТЕР-003140?style=for-the-badge&logo=twitter)
-![MAIL](https://img.shields.io/badge/-ANISHENKO.ALEX@GMAIL.COM-003140?style=for-the-badge&logo=gmail)
+[![VK](https://img.shields.io/badge/-ВКОНТАКТЕ-003140?style=for-the-badge&logo=vk)](https://vk.com/bantikgames)
+[![TG](https://img.shields.io/badge/-TELEGRAM-003140?style=for-the-badge&logo=telegram)](https://t.me/bantikgames)
+[![MAIL](https://img.shields.io/badge/-ANISHENKO.ALEX@GMAIL.COM-003140?style=for-the-badge&logo=gmail)](mailto:anishenko.alex@gmail.com)
+[![TWITTER](https://img.shields.io/badge/-TWITTER-003140?style=for-the-badge&logo=twitter)](https://twitter.com/BantikGames)
+[![YT](https://img.shields.io/badge/-YOUTUBE-003140?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCbwHj15h4h9d5iS4plMPfCA)
 
